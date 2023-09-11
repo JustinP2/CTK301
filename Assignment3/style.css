@@ -1,0 +1,36 @@
+p {
+    color: #000000;
+    background-color: #69f969; 
+  }
+  
+  .specialp1 {
+    color: aquamarine;
+  }
+
+.specialp2 {
+    color: orange
+}
+.specialp3 {
+color:brown
+}
+.specialp4 {
+    color: pink
+}
+.specialp5 {
+    color: yellowgreen 
+}
+.specialp6 {
+    color: blue
+}
+
+a {
+    color: #ff0000;
+  }
+
+  a:visited {
+    color: #9d00ff;
+  }
+
+  a:hover {
+    color: #ffff00;
+  }        
